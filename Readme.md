@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Айрат](https://up.htmlacademy.ru/javascript/18/user/1059679).
-* Наставник: `Неизвестно`.
+* Наставник: `Олег Анисимов https://htmlacademy.ru/profile/id867993`.
 
 ---
 
